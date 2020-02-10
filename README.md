@@ -1,0 +1,1 @@
+Meal app where each meal has its ingredients and steps and an image. The meals were divided into categories with the option of favorites and restrictions filter. An own API with data was also created. Redux and navigation are used.
